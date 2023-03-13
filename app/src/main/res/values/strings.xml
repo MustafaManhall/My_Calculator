@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My_Calculator</string>
+    <string name="programmer_calculator">Programmer Calculator</string>
+    <string name="enter_your_decimal_number">Enter your decimal number</string>
+    <string name="enter_your_binary_number">Enter your binary number</string>
+    <string name="enter_your_octal_number">Enter your octal number</string>
+    <string name="enter_your_hexa_number">Enter your hexa number</string>
+    <string name="clear_all">Clear ALl</string>
+    <string name="calculate">Calculate</string>
+
+</resources>
